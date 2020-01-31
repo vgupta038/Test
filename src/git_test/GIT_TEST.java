@@ -16,7 +16,7 @@ public class GIT_TEST {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("change1 in master branch");
+        //System.out.println("change1 in master branch");
     }
     
 }
